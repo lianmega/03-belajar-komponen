@@ -1,7 +1,5 @@
 const ShowImage = () => {
-
     return(
         <Profile/>
     );
-    
 }
