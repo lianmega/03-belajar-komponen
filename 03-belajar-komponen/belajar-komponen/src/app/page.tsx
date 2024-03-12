@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <main className="flex min-h-screen flex-col items-center justify-between p-24">
         <div style={{textAlign: 'center'}}>
-          <h1> Ilmuan yang luar biasa </h1>
+          <h2> Ilmuan yang luar biasa </h2>
         </div>
 
         <div className="flex w-full justify-center">
